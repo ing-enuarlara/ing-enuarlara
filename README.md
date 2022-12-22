@@ -21,6 +21,16 @@ Desarrollador Backend Junior, con sólida formación en el campo de la informát
 </p>
 
 ---  
+
+## Core Team
+
+| ![@ing_enuarlara.co](https://avatars.githubusercontent.com/u/29340783?v=4) |
+| --- |
+| [@ing_enuarlara.co](https://github.com/ing-enuarlara) |
+| Desarrollador Backend Junior |
+
+---  
+
 ### Estadísticas de GitHub
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=ing-enuarlara&show_icons=true"><p>
