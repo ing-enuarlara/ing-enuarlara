@@ -1,6 +1,6 @@
 # Hola 👋🏻, Soy @ing_enuarlara.co
 ---
-Desarrollador Backend Junior, con sólida formación en el campo de la informática, con compromiso social y capacidad investigativa, con una disposición constante de aprendizaje y adaptación, capaz de desempeñarme en empresas de la industria del desarrollo web o en áreas de informática de cualquier sector productivo, desarrollando la función del desarrollador, Participar en grupos de desarrollo, asumiendo la función de desarrollador Backend dentro de un equipo de trabajo. 
+Desarrollador Backend Midd-Senior, con sólida formación en el campo de la informática, con compromiso social y capacidad investigativa, con una disposición constante de aprendizaje y adaptación, capaz de desempeñarme en empresas de la industria del desarrollo web o en áreas de informática de cualquier sector productivo, desarrollando la función del desarrollador, Participar en grupos de desarrollo, asumiendo la función de desarrollador Backend dentro de un equipo de trabajo. 
 
 <p>
 <a href="https://www.instagram.com/enuar_lara7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
@@ -27,7 +27,7 @@ Desarrollador Backend Junior, con sólida formación en el campo de la informát
 | ![@ing_enuarlara.co](https://avatars.githubusercontent.com/u/29340783?v=4) |
 | --- |
 | [@ing_enuarlara.co](https://github.com/ing-enuarlara) |
-| Desarrollador Backend Junior |
+| Desarrollador Backend Midd-Senior |
 
 ---  
 
