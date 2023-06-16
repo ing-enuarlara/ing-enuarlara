@@ -22,6 +22,7 @@ He usado herramientas como Adobe Photoshop y Adobe Illustrator para apoyar de un
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/mysql-%23E4405F.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/laravel-%a4a61d.svg?style=for-the-badge&logo=laravel&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ---  
