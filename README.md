@@ -1,6 +1,10 @@
 # Hola 👋🏻, Soy @ing_enuarlara.co
 ---
-Desarrollador Backend Midd-Senior, con sólida formación en el campo de la informática, con compromiso social y capacidad investigativa, con una disposición constante de aprendizaje y adaptación, capaz de desempeñarme en empresas de la industria del desarrollo web o en áreas de informática de cualquier sector productivo, desarrollando la función del desarrollador, Participar en grupos de desarrollo, asumiendo la función de desarrollador Backend dentro de un equipo de trabajo. 
+Developer BackEnd Mid-Senior, con sólida formación en el campo de la informática, con compromiso social y capacidad investigativa, con una disposición constante de aprendizaje y adaptación, capaz de desempeñarme en empresas de la industria del desarrollo web o en áreas de informática de cualquier sector productivo, desarrollando la función del desarrollador web, Participar en grupos de desarrollo, asumiendo la función de desarrollador dentro de un equipo de trabajo.
+
+Developer en ReactJS, Laravel, PHP, JavaScript, Wordpress, HTML5 y CSS3. Experiencia en manejo de tecnologías de control de versiones Git como GitHub. He trabajado en proyectos bajo metodologías agiles como SCRUM. 
+
+He usado herramientas como Adobe Photoshop y Adobe Illustrator para apoyar de una manera creativa los proyecto donde he trabajado para que la experiencia de usuario y presentación del producto sea la mejor.
 
 <p>
 <a href="https://www.instagram.com/enuar_lara7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
