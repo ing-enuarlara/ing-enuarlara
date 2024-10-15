@@ -2,7 +2,7 @@
 ---
 Developer FullStack Mid-Senior, con sólida formación en el campo de la informática, con compromiso social y capacidad investigativa, con una disposición constante de aprendizaje y adaptación, capaz de desempeñarme en empresas de la industria del desarrollo web o en áreas de informática de cualquier sector productivo, desarrollando la función del desarrollador web, Participar en grupos de desarrollo, asumiendo la función de desarrollador dentro de un equipo de trabajo.
 
-Developer en Laravel, PHP, JavaScript, HTML5 y CSS3. Experiencia en manejo de tecnologías de control de versiones Git como GitHub. He trabajado en proyectos bajo metodologías agiles.
+Developer en Java, Kotlin, Laravel, PHP, JavaScript, HTML5 y CSS3. Experiencia en manejo de tecnologías de control de versiones Git como GitHub. He trabajado en proyectos bajo metodologías agiles.
 
 He usado herramientas como Adobe Photoshop y Adobe Illustrator para apoyar de una manera creativa los proyecto donde he trabajado para que la experiencia de usuario y presentación del producto sea la mejor.
 
@@ -32,7 +32,7 @@ He usado herramientas como Adobe Photoshop y Adobe Illustrator para apoyar de un
 | ![@ing_enuarlara.co](https://avatars.githubusercontent.com/u/29340783?v=4) |
 | --- |
 | [@ing_enuarlara.co](https://github.com/ing-enuarlara) |
-| Developer BackEnd Mid-Senior |
+| Developer FullStack Mid-Senior |
 
 ---  
 
