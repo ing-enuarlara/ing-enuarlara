@@ -1,10 +1,10 @@
 # Hola 👋🏻, Soy @ing_enuarlara.co
 ---
-Developer FullStack Mid-Senior, con sólida formación en el campo de la informática, con compromiso social y capacidad investigativa, con una disposición constante de aprendizaje y adaptación, capaz de desempeñarme en empresas de la industria del desarrollo web o en áreas de informática de cualquier sector productivo, desarrollando la función del desarrollador web, Participar en grupos de desarrollo, asumiendo la función de desarrollador dentro de un equipo de trabajo.
-
-Developer en Java, Kotlin, Laravel, PHP, JavaScript, HTML5 y CSS3. Experiencia en manejo de tecnologías de control de versiones Git como GitHub. He trabajado en proyectos bajo metodologías agiles.
-
-He usado herramientas como Adobe Photoshop y Adobe Illustrator para apoyar de una manera creativa los proyecto donde he trabajado para que la experiencia de usuario y presentación del producto sea la mejor.
+Soy Enuar Lara, desarrollador de software con enfoque en soluciones empresariales, residente en Sevilla, España. Cuento con más de 7 años de experiencia trabajando con tecnologías como PHP, Laravel, JavaScript, React, Kotlin, Java y C#, creando productos digitales que resuelven problemas reales.
+Tengo una formación sólida en informática, pero lo que realmente me define es la capacidad de entender las necesidades de un negocio y traducirlas en software funcional, útil y escalable. He trabajado en entornos corporativos y también como desarrollador freelance, liderando proyectos internos y externos con una visión clara: que la tecnología esté al servicio de los procesos.
+Estoy familiarizado con metodologías ágiles como Scrum, versionamiento con Git y GitHub, y además, apoyo mis desarrollos con herramientas de diseño como Adobe Photoshop e Illustrator, cuidando siempre la experiencia de usuario y la presentación visual de cada proyecto.
+Actualmente colaboro como desarrollador en empresas como HBC Avonni y SINTIA, y lidero una sociedad llamada Ocean Blue, desde donde impulso proyectos a medida para empresas locales, como sistemas de gestión interna, apps móviles híbridas y soluciones de automatización.
+Si buscas un desarrollador que no solo programe, sino que proponga, mejore y entregue soluciones con propósito, estás en el lugar correcto.
 
 <p>
 <a href="https://www.instagram.com/enuar_lara7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
